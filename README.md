@@ -1,1 +1,1 @@
-# L-gicaComputacional
+# LogicaComputacional
