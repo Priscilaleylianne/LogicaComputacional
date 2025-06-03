@@ -1,0 +1,99 @@
+questão 01
+Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia. O programa deve ler o preço unitário do produto, a quantidade de unidades compradas deste produto, e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve mostrar o valor do troco a ser devolvido ao cliente.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Informe valores:
+
+Exemplo 01 -
+Preço unitário do produto: 8,00
+Quantidade comprada: 2
+Dinheiro recebido: 20.00
+
+Exemplo 02 -
+Preço unitário do produto: 30,00
+Quantidade comprada: 3
+Dinheiro recebido: 100.00
+
+
+
+questão 02
+
+Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no formato horas:minutos:segundos.
+
+
+Exemplo 01 -
+Digite a duração em segundos: 300
+
+Início da execução
+Digite a duracao em segundos: 
+300
+ 0: 5: 0
+
+Fim da execução.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Uma operadora de telefonia cobra R$ 50.00 por um plano básico que dá direito a 100 minutos de telefone. Cada minuto que exceder a franquia de 100 minutos custa R$ 2.00. Fazer um programa para ler a quantidade de minutos que uma pessoa consumiu, daí mostrar o valor a ser pago.
+
+
+Exemplo 01 - 
+
+Digite a quantidade de minutos: 103
+
+valor a pagar: R$ 56.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leia um valor inteiro X. Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
+
+
+
+
+
+exemplo 1
+
+Digite o valor de X: 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
