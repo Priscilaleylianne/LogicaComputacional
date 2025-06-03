@@ -1,5 +1,5 @@
 # Introdução à Lógica de Programação e Algoritmos
-# Estudo via links, organizados na apresndizagem individual
+# Estudo via links, organizados na apresandizagem individual
 
 Este repositório contém recursos e informações para iniciantes no mundo da lógica de programação e algoritmos. Os links abaixo fornecem uma base sólida para entender os conceitos fundamentais e começar a programar.
 
